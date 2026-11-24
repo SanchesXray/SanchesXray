@@ -42,7 +42,7 @@
 
 * **Telegram:** [@sanchesxray]
 * **Email:** [sanches.xray@ya.ru](mailto:sanches.xray@ya.ru)
-* **Резюме на hh.ru:** [[Ссылка на ваше резюме на hh](https://krasnodar.hh.ru/resume/74a91df6ff0fb328220039ed1f4947334f4467)]
+* **Резюме на hh.ru:** [[Резюме hh.ru](https://krasnodar.hh.ru/resume/74a91df6ff0fb328220039ed1f4947334f4467)]
 
 ---
 *Статус: Ищу работу / Открыт к предложениям (Frontend Developer)*
